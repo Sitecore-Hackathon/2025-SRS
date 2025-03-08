@@ -14,7 +14,7 @@
   - This entry is the workflow for notifying a Microsoft Teams channel whenever a new item is added in Sitecore XMCloud. The integration involves Sitecore Webhooks, an Azure Function, and a Teams channel workflow.
 
 ## Video link
-⟹ 
+⟹ https://www.youtube.com/watch?v=gYikpjPdcy4
 
 ## Pre-requisites and Dependencies
 
